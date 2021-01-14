@@ -1,3 +1,3 @@
 # Classification
 
-Klasifikasi pada Data Mining
+Latihan lasifikasi pada Data Mining
